@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+shujuecn 的第一个示例文件！
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
